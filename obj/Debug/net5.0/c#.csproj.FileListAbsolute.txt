@@ -1,0 +1,16 @@
+/home/enrique/development/c#/bin/Debug/net5.0/c#
+/home/enrique/development/c#/bin/Debug/net5.0/c#.deps.json
+/home/enrique/development/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/enrique/development/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/enrique/development/c#/bin/Debug/net5.0/c#.dll
+/home/enrique/development/c#/bin/Debug/net5.0/ref/c#.dll
+/home/enrique/development/c#/bin/Debug/net5.0/c#.pdb
+/home/enrique/development/c#/obj/Debug/net5.0/c#.csprojAssemblyReference.cache
+/home/enrique/development/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/enrique/development/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/enrique/development/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/enrique/development/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/enrique/development/c#/obj/Debug/net5.0/c#.dll
+/home/enrique/development/c#/obj/Debug/net5.0/ref/c#.dll
+/home/enrique/development/c#/obj/Debug/net5.0/c#.pdb
+/home/enrique/development/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
